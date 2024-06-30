@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="header">Таймер</string>
+    <string name="button_text_start">Старт</string>
+    <string name="button_text_stop">Стоп</string>
+    <string name="timer">20</string>
+</resources>
